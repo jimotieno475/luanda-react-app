@@ -1,7 +1,7 @@
 import React from 'react'
- import mill1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/mill1.jpg';
- import mill2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/mill2.jpg';
- import mill3 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/mill3.jpg';
+ import mill1 from '../images/mill1.jpg';
+ import mill2 from '../images/mill2.jpg';
+ import mill3 from '../images/mill3.jpg';
 
 function MaizeMill() {
   return (

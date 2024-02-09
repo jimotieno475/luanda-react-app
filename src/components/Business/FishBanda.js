@@ -1,5 +1,5 @@
 import React from 'react'
-import banda from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/beach.jpg';
+import banda from '../images/beach.jpg';
 
 function FishBanda() {
   return (

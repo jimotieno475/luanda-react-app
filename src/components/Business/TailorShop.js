@@ -1,6 +1,6 @@
 import React from 'react'
-import T1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/tailor1.jpg'
-import T2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/tailor3.jpg'
+import T1 from '../images/tailor1.jpg'
+import T2 from '../images/tailor3.jpg'
 
 function TailorShop() {
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
-import res from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/res.jpg'
-import Rajabu from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/bar3.jpg'
-import Upper from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/upperLakeview.jpg'
+import res from '../images/res.jpg'
+import Rajabu from '../images/bar3.jpg'
+import Upper from '../images/upperLakeview.jpg'
 
 function Restaurants() {
   return (

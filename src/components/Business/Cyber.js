@@ -1,5 +1,5 @@
 import React from 'react'
-import cyber from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/cyber1.jpg';
+import cyber from '../images/cyber1.jpg';
 
 function Cyber() {
   return (

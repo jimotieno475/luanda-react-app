@@ -1,7 +1,7 @@
 import React from 'react'
-import movie1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/movie1.jpg';
-import movie2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/mo1vie2.jpg';
-import movie3 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/mo2vie2.jpg';
+import movie1 from '../images/movie1.jpg';
+import movie2 from '../images/mo1vie2.jpg';
+import movie3 from '../images/mo2vie2.jpg';
 
 function MovieShop() {
   return (

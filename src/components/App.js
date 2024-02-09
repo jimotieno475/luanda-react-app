@@ -1,4 +1,4 @@
-import React from "react";
+
 import { BrowserRouter as Router, Route, Routes,Navigate} from 'react-router-dom';
 import Home from "./Home";
 import Navbar from "./Navbar";
@@ -33,7 +33,9 @@ import TailorShop from "./Business/TailorShop";
 import Photos360 from "./Photos360";
 
 
+
 function App() {
+
   return (
     <div className="App">
 

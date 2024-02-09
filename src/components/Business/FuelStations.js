@@ -1,6 +1,6 @@
 import React from 'react'
-import fuel1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/fuel1.jpg';
-import fuel2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/fuel2.jpg';
+import fuel1 from '../images/fuel1.jpg';
+import fuel2 from '../images/fuel2.jpg';
 
 
 function FuelStations() {

@@ -1,6 +1,6 @@
 import React from 'react'
-import Watagwan from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/welcome.jpg'
-import Watag from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/choper3.jpg'
+import Watagwan from '../images/welcome.jpg'
+import Watag from '../images/choper3.jpg'
 
 function Chopa() {
   return (

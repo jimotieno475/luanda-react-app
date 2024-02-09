@@ -1,6 +1,6 @@
 import React from 'react'
-import mpesa from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/mpesa.jpg';
-import Rajabu from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/bar3.jpg'
+import mpesa from '../images/mpesa.jpg';
+import Rajabu from '../images/bar3.jpg'
 
 function Mpesaservices() {
   return (

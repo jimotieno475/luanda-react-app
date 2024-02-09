@@ -1,7 +1,7 @@
 import React from 'react';
-import ferry1Image from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/ferry1.jpg';
-import ferry2Image from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/ferry2.jpg';
-import ferryImage from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/ferry.jpg';
+import ferry1Image from '../images/ferry1.jpg';
+import ferry2Image from '../images/ferry2.jpg';
+import ferryImage from '../images/ferry.jpg';
 
 function Ferry() {
   return (

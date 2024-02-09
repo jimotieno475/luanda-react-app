@@ -1,20 +1,20 @@
 import React from 'react'
-import m1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/right view.jpg';
-import m2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/rightview2.jpg';
-import m3 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop1.jpg';
-import m4 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop2.jpg';
-import m5 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop6.jpg';
-import m6 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shopanother.jpg';
-import m7 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop jabura.jpg';
-import m8 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop mamaclin.jpg';
-import m9 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop mama dadi.jpg';
-import m10 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shops.jpg';
-import m11 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shops2.jpg';
-import m12 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shops3.jpg';
-import m13 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shops23.jpg';
-import m14 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shop soki.jpg';
-import m15 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/shopz.jpg';
-import m16 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/sunset view.jpg';
+import m1 from '../images/right view.jpg';
+import m2 from '../images/rightview2.jpg';
+import m3 from '../images/shop1.jpg';
+import m4 from '../images/shop2.jpg';
+import m5 from '../images/shop6.jpg';
+import m6 from '../images/shopanother.jpg';
+import m7 from '../images/shop jabura.jpg';
+import m8 from '../images/shop mamaclin.jpg';
+import m9 from '../images/shop mama dadi.jpg';
+import m10 from '../images/shops.jpg';
+import m11 from '../images/shops2.jpg';
+import m12 from '../images/shops3.jpg';
+import m13 from '../images/shops23.jpg';
+import m14 from '../images/shop soki.jpg';
+import m15 from '../images/shopz.jpg';
+import m16 from '../images/sunset view.jpg';
 
 
 function Shops() {

@@ -1,6 +1,6 @@
 import React from 'react'
-import  viewanglenosun from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/360 view no sun.jpg';
-import  viewanglesun from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/360 view sun light.jpg';
+import  viewanglenosun from './images/360 view no sun.jpg';
+import  viewanglesun from './images/360 view sun light.jpg';
 
 export default function Photos360() {
   return (

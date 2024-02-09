@@ -1,11 +1,11 @@
 import React from 'react';
-import waterBusImage2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/water bus 2.jpg';
-import waterBusImage3 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/water bus 3.jpg';
-import priceBoard from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/waterbusPrice.jpg';
-import waterBusImage1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/water bus.jpg';
-import waterBusImage4 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/view.jpg';
-import waterBusin from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/waterin.jpg';
-import waterBusout from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/waterout.jpg';
+import waterBusImage2 from '../images/water bus 2.jpg';
+import waterBusImage3 from '../images/water bus 3.jpg';
+import priceBoard from '../images/waterbusPrice.jpg';
+import waterBusImage1 from '../images/water bus.jpg';
+import waterBusImage4 from '../images/view.jpg';
+import waterBusin from '../images/waterin.jpg';
+import waterBusout from '../images/waterout.jpg';
 
 function WaterBus() {
   return (

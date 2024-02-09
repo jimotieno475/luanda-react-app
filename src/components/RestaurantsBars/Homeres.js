@@ -1,6 +1,6 @@
 import React from 'react'
-import fish1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/comondelicacy.jpeg'
-import fish2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/delicacy.jpg'
+import fish1 from '../images/comondelicacy.jpeg'
+import fish2 from '../images/delicacy.jpg'
 
 function Homeres() {
   return (

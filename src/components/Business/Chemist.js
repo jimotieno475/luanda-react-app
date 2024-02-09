@@ -1,5 +1,5 @@
 import React from 'react'
-import  chemea from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/chemist3.jpg';
+import  chemea from '../images/chemist3.jpg';
 
 function Chemist() {
   return (

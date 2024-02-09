@@ -1,9 +1,9 @@
 import React from 'react'
-import Coolbreez1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/Coolbreez1.jpg'
-import Coolbreez2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/Coolbreez2.jpg'
-import LakesideClub from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/club.jpg'
-import Rajabu from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/bar3.jpg'
-import Isaya from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/bar6.jpg'
+import Coolbreez1 from '../images/Coolbreez1.jpg'
+import Coolbreez2 from '../images/Coolbreez2.jpg'
+import LakesideClub from '../images/club.jpg'
+import Rajabu from '../images/bar3.jpg'
+import Isaya from '../images/bar6.jpg'
 
 function Bar() {
   return (

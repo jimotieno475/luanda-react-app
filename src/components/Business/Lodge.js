@@ -1,5 +1,5 @@
 import React from 'react'
-import lodge from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/lodge.jpg';
+import lodge from '../images/lodge.jpg';
 
 function Lodge() {
   return (

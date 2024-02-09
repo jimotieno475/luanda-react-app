@@ -1,6 +1,6 @@
  import React from 'react'
- import hardware1 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/harware1.jpg';
- import hardware2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/harware2.jpg';
+ import hardware1 from '../images/harware1.jpg';
+ import hardware2 from '../images/harware2.jpg';
 
 function Hardwares() {
    return (

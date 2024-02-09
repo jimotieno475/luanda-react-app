@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import vegetationImage from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/vegetation.jpg';
-import victoria from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/lake.jpg';
-import victoriaview from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/lake view.jpg';
-import victoriaview2 from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/lake view2.jpg';
+import vegetationImage from './images/vegetation.jpg';
+import victoria from './images/lake.jpg';
+import victoriaview from './images/lake view.jpg';
+import victoriaview2 from './images/lake view2.jpg';
 
  function Home() {
-  return (
+    return (
     <div>
     <div id='home'>Home Luanda Kotieno</div>
     <img src={vegetationImage} alt="luanda view" title="Welcome home" />
@@ -22,8 +22,8 @@ import victoriaview2 from '/home/jim/my personals as a beginer/luanda react/luan
         <img src={victoriaview2} alt="luanda view" title="Welcome home" />
         <p><img src="https://lh3.googleusercontent.com/p/AF1QipPZ6Lif0VU21oA9lRAahEfmHPzRfkneMkOnRDpq=s680-w680-h510" alt="Luanda view " title="Cool view" /></p>
     </div>
-  )
-}
+  )}
+
 
 
 export default Home;

@@ -1,5 +1,5 @@
 import React from 'react'
-import jacket from '/home/jim/my personals as a beginer/luanda react/luanda-kotieno/src/components/images/lifejacket engine.jpg';
+import jacket from '../images/lifejacket engine.jpg';
 
 function Engine() {
   return (
